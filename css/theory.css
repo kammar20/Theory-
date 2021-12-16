@@ -76,6 +76,7 @@ button {
 .tag-line h1 {
  font-size: 6rem;
  font-weight: 100;
+ color: red;
 }
 .tag-line p {
  font-size: 1.5rem;
